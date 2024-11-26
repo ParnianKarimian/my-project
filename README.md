@@ -1,6 +1,6 @@
-# Online Shop
-My First project-Shopping Site using HTML,CSS
-Hope you enjoy!
+# Shopping Site
+A basic shopping website designed using HTML and CSS. This project demonstrates fundamental web development skills.
+Enjoy exploring the website and feel free to suggest improvements!
 [Demo](https://parniankarimian.github.io/my-project/)
 ![bandicam 2024-11-23 00-28-51-113](https://github.com/user-attachments/assets/a9fbcd85-773d-4622-ad36-5a8b3ec50167)
 ![bandicam 2024-11-23 00-28-44-501](https://github.com/user-attachments/assets/d2a570e5-3448-4e32-a4d3-0fede1969c3f)
